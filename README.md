@@ -1,4 +1,4 @@
-![RetroChat logo](https://github.com/user-attachments/assets/e507b3f2-9d14-41e7-9e67-10255e232195)
+![RetroChat](assets/retrochat-banner.png)
 
 # RetroChat — Where WEB2 and WEB3 Collide
 
@@ -35,21 +35,43 @@ We believe the internet was better when it was personal, fun, and community-firs
 
 - **Web Browser** — Works in any modern browser at [retrochat.io](https://retrochat.io)
 - **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
-- **Native Mobile Apps** — Coming Soon for iOS and Android
+- **Native Mobile Apps** — Available on the [App Store](https://apps.apple.com/us/app/retro-chat-on-sol/id6766412897) and Google Play (search **RetroChat**)
 
 ## Documentation
 
-Guides and reference live in the [`docs/`](docs/) folder:
+Guides and reference live in the [`docs/`](docs/) folder. Start with the [docs index](docs/README.md).
+
+### Start here
 
 - [Getting started](docs/GETTING_STARTED.md)
 - [Install](docs/INSTALL.md)
-- [Native app setup](docs/native-setup.md)
-- [Features](docs/FEATURES.md)
-- [User guides](docs/USER_GUIDES.md)
-- [Web3 integration](docs/WEB3_INTEGRATION.md)
+- [Authentication](docs/AUTHENTICATION.md)
+- [Features overview](docs/FEATURES.md)
+- [User guides index](docs/USER_GUIDES.md)
+
+### Everyday use
+
+- [Chat rooms & DMs](docs/CHAT_ROOMS_AND_DMS.md)
+- [Communities & feed](docs/COMMUNITIES_AND_FEED.md)
+- [Profiles & following](docs/PROFILES_AND_FOLLOWING.md)
+- [Notifications](docs/NOTIFICATIONS.md)
+- [Live streaming & Spaces](docs/LIVE_STREAMING_AND_SPACES.md)
+- [Retro TV](docs/RETRO_TV.md)
+- [Internet Explorer browser](docs/INTERNET_EXPLORER_BROWSER.md)
+- [Learn Center](docs/LEARN_CENTER.md)
+
+### Wallet & on-chain
+
+- [Wallet guide](docs/WALLET_GUIDE.md)
 - [Airdrops & tipping](docs/AIRDROPS_AND_TIPPING.md)
+- [Token Studio](docs/TOKEN_STUDIO.md)
 - [Referral system](docs/REFERRAL_SYSTEM.md)
-- [Admin & moderation](docs/ADMIN_AND_MODERATION.md)
+
+### Safety, support & policies
+
+- [Moderation & safety](docs/MODERATION_AND_SAFETY.md)
+- [Feature requests & bugs](docs/FEATURE_REQUESTS_AND_BUGS.md)
+- [Status page](docs/STATUS_PAGE.md)
 - [Security](docs/SECURITY.md)
 - [Legal](docs/LEGAL.md)
 - [Code of conduct](docs/CODE_OF_CONDUCT.md)

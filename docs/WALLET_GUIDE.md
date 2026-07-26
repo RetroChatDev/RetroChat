@@ -1,0 +1,55 @@
+# Wallet Guide
+
+RetroChat includes a Solana wallet you can use for tips, trades, and on-chain identity. You can also connect Phantom instead.
+
+## Wallet options
+
+**In-app wallet.** Created for you during onboarding. Protected by biometric unlock (Face ID / Touch ID / device passcode) or a passphrase. RetroChat never stores your recovery phrase on our servers.
+
+**Phantom.** Connect your existing Phantom wallet on desktop, mobile, or inside the Phantom in-app browser. RetroChat requests your approval for every transaction.
+
+You can switch between them from **Wallet → Settings**.
+
+## First-time setup
+
+1. Open the **Wallet** tab.
+2. Choose **Create wallet** or **Connect Phantom**.
+3. If creating: write down your recovery phrase and confirm it. Enable biometric unlock when prompted.
+4. Your wallet is ready to receive SOL and SPL tokens.
+
+## Portfolio
+
+The wallet home shows:
+- SOL balance and USD value.
+- SPL token holdings with price and 24h change.
+- NFT collection viewer.
+- DeFi positions (staked, lent, or LP positions detected on-chain).
+
+## Sending, receiving, and swapping
+
+- **Receive**: tap Receive to show your address and QR code.
+- **Send**: paste an address or pick a recent contact, choose a token, and confirm.
+- **Swap**: swap between tokens using a public aggregator.
+- Every outgoing transaction requires biometric or passphrase approval, or Phantom approval if you're using Phantom.
+
+## Buy crypto with a card
+
+Use **Buy Crypto** to launch the Stripe on-ramp. Complete the Stripe flow to have SOL or USDC delivered to your RetroChat wallet. Availability depends on your region.
+
+## Price alerts
+
+Tap the bell icon on any token to set a price alert. You'll receive a notification when the token crosses your target.
+
+## Rent-reclaim tool
+
+Solana charges a small "rent" deposit for each token account. The **Reclaim Rent** tool scans your wallet for empty token accounts and lets you close them to recover the deposit as SOL.
+
+## Transaction history
+
+Every send, receive, swap, tip, trade, and airdrop is listed under **History**. Tap any entry to view it on a public block explorer.
+
+## Security
+
+- Your recovery phrase is stored only on your device. If you lose your device without a backup, RetroChat cannot recover the wallet.
+- Never share your recovery phrase. RetroChat staff will never ask for it.
+- See [Security](SECURITY.md) for more.

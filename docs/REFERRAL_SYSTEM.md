@@ -1,49 +1,33 @@
-# RetroChat Referral System
+# Referral System
 
-## How It Works
+Invite friends to RetroChat with a personal link.
 
-RetroChat's referral system lets you invite friends and grow the community. Every user gets a unique referral code that can be shared with others.
+## Your referral code
 
-## Getting Your Referral Code
+Every account has a personal referral code that includes your screen name. Find it under **Profile → Referrals** or **Settings → Referrals**.
 
-1. Sign in to your RetroChat account.
-2. Navigate to the **Referral** section (available from the sidebar or your profile).
-3. Copy your unique referral link or code.
+Share options:
+- **Copy link** — copies your full referral URL to the clipboard.
+- **Native share** — opens your device's share sheet.
+- **QR code** — for in-person shares.
 
-## Sharing Your Referral
+## How referrals are tracked
 
-You can share your referral in several ways:
+- Someone taps your link, which contains a `?ref=` code.
+- RetroChat remembers the code across pages, so it's still applied even if they land on the home page first, sign in with a wallet, or bounce between tabs before signing up.
+- When they finish sign-up, the referral is recorded and shown in your dashboard.
 
-- **Copy the link** and paste it in messages, social media, or emails
-- **Share directly** using your device's native share functionality
-- **Post it** in your communities or chat rooms
+## Referral dashboard
 
-## How Referrals Are Tracked
+**Profile → Referrals** shows:
+- Total referred users.
+- Recent referrals (screen name and join date).
+- Status of each referral (pending review, confirmed).
 
-When someone signs up using your referral link:
+Some referrals are placed in a short review to protect against abuse. Confirmed referrals appear in your dashboard within 24 hours.
 
-1. They click your unique referral link.
-2. They create a RetroChat account.
-3. The referral is automatically attributed to you.
-4. Both you and the new user may receive rewards.
+## Rules
 
-## Referral Rewards
-
-Rewards for successful referrals may include:
-
-- Recognition on the platform
-- Future token airdrops or bonuses
-- Special badges or profile flair
-
-*Specific reward details are announced periodically and may change over time.*
-
-## Guidelines
-
-- Referral links should be shared honestly — do not use misleading descriptions.
-- Do not spam referral links in chat rooms or communities.
-- Creating fake accounts to abuse the referral system will result in account suspension.
-- RetroChat reserves the right to modify or discontinue the referral program at any time.
-
----
-
-*Help RetroChat grow — share your referral link today!*
+- One referrer per new account. The first valid code wins.
+- Self-referrals (signing up with your own code) are not counted.
+- Bulk sign-ups from the same device or network may be flagged and held for review.

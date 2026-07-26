@@ -27,7 +27,7 @@ The following are strictly prohibited on RetroChat:
 
 ## Age Requirement
 
-RetroChat requires all users to be at least **13 years of age**. Certain features (such as Web3 wallet integration and token creation) may require users to be **18 or older**. Age verification is enforced at sign-up.
+RetroChat requires all users to be at least **16 years of age**. Certain features (such as Web3 wallet integration and token creation) may require users to be **18 or older**. Age verification is enforced at sign-up.
 
 ## Enforcement
 

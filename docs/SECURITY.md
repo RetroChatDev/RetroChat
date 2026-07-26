@@ -16,7 +16,7 @@ RetroChat takes platform security seriously. Here's how we protect our users and
 ## Age Verification
 
 - All users must provide their date of birth during sign-up.
-- Users under **13 years old** are not permitted to create accounts.
+- Users under **16 years old** are not permitted to create accounts.
 - Certain features (Web3 wallet integration, token creation, tipping) require users to be **18 or older**.
 - Age verification events are logged for compliance purposes.
 

@@ -1,5 +1,93 @@
 # RetroChat Features
 
+A complete, at-a-glance list of what you can do inside RetroChat today. Each section links to a dedicated guide.
+
+## Chat & Messaging
+See [Chat Rooms & Direct Messages](CHAT_ROOMS_AND_DMS.md).
+- Public and private chat rooms with optional password, tags, wallpapers, user limits, and favorites.
+- Rich messages: emoticons, GIFs, images, files, camera capture, replies, @mentions, link previews, and inline token/contract previews.
+- Direct Messages (1:1) with GIFs, reporting, and blocking.
+- Room search, favorites, and quick rejoin.
+
+## Communities & Feed
+See [Communities & Feed](COMMUNITIES_AND_FEED.md).
+- Create communities with banners, descriptions, rules, and social links.
+- Community posts with likes, replies, pinning, reporting, and a featured carousel.
+- Membership, roles, and a Community Leader workflow with request and approval.
+- Following feed that aggregates people and communities you follow.
+
+## Profiles & Following
+See [Profiles & Following](PROFILES_AND_FOLLOWING.md).
+- Screen name, avatar, banner, bio, and social links.
+- Age verification, follow/unfollow, featured posts, identity badges.
+- Public profile pages with wallet display and tipping.
+
+## Live Streaming & Spaces
+See [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md).
+- Community Spaces: audio-only rooms with raise-hand, moderation, and participant list.
+- Community Live: video broadcasting with OBS/RTMP support, camera preview, and recordings.
+- X Spaces playback inside RetroChat.
+- Live page: HLS livestream player.
+
+## Retro TV
+See [Retro TV](RETRO_TV.md).
+- Channel guide, video library, mini "now playing" footer, and IPTV-style channel groups.
+
+## Internet Explorer (in-app browser)
+See [Internet Explorer](INTERNET_EXPLORER_BROWSER.md).
+- Tabbed in-app browser with bookmarks, refresh, new tab, and external open.
+
+## Wallet & Payments
+See [Wallet Guide](WALLET_GUIDE.md).
+- In-app wallet with biometric or passphrase signing, portfolio, and transaction history.
+- Phantom wallet connect, including inside the Phantom in-app browser.
+- Buy crypto with card via Stripe on-ramp.
+- DeFi position viewer, NFT viewer, price alerts, and rent-reclaim tool.
+
+## Tipping & Airdrops
+See [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md).
+- Tip any user in SOL or supported SPL tokens.
+- Tip Leaderboard: top tippers and most tipped.
+- Airdrop campaigns for creators, with delivery notifications.
+
+## Token Studio
+See [Token Studio](TOKEN_STUDIO.md).
+- Interact with the public pump.fun protocol: launch tokens, browse the gallery, view live charts and trades, and use the buy/burn panel.
+- Token locking, fee-sharing views, creator analytics, and "My Launches."
+
+## Referrals
+See [Referral System](REFERRAL_SYSTEM.md).
+- Personal referral link and code with native share and signup tracking.
+
+## Notifications
+See [Notifications](NOTIFICATIONS.md).
+- In-app inbox for mentions, replies, tips, and community activity.
+- Push notification registration and per-category preferences.
+
+## Moderation & Safety
+See [Moderation & Safety](MODERATION_AND_SAFETY.md).
+- Report messages, posts, and users.
+- Block users to hide their content.
+- Room moderator tools and community moderation panel.
+- Age gate and content warnings.
+
+## Authentication
+See [Authentication](AUTHENTICATION.md).
+- Email/password, wallet sign-in, and X (Twitter) OAuth.
+- Password reset and account deletion.
+- Cross-device wallet approval pairing.
+
+## Install & Platforms
+See [Install RetroChat](INSTALL.md).
+- Native iOS and Android apps.
+- Installable PWA on desktop and mobile browsers.
+
+## Learn, Feature Requests & Status
+- [Learn Center](LEARN_CENTER.md): searchable help articles with community contributions.
+- [Feature Requests & Bug Reports](FEATURE_REQUESTS_AND_BUGS.md): submit ideas, vote, and file bugs.
+- [Status Page](STATUS_PAGE.md): live service health and incident history.
+# RetroChat Features
+
 A complete overview of everything RetroChat has to offer.
 
 ---
@@ -86,10 +174,10 @@ Watch curated retro content right inside RetroChat.
 Listen to live radio stations from around the world while you chat.
 
 - **Station browser** — Search and browse thousands of radio stations
-- **Genre and country filters** — Find stations by music genre or location
+- **Genre browse and search** — Find stations by tag or keyword
 - **Now playing** — See what's currently playing on your selected station
 - **Background playback** — Radio keeps playing as you navigate the app
-- **iHeart integration** — Access iHeart Radio stations
+- **Radio Browser** — Global station catalog with genre browse, search, and play-click contribution to the open database
 
 ---
 

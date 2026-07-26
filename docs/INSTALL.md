@@ -1,90 +1,45 @@
-# Installing RetroChat
+# Install RetroChat
 
-RetroChat can be installed as a **Progressive Web App (PWA)** on your phone, tablet, or computer — no app store required.
+RetroChat is available as native apps on iOS and Android and as an installable PWA on desktop and mobile browsers.
 
----
+## iOS
 
-## What Is a PWA?
+1. Open the App Store and search for **RetroChat**.
+2. Tap **Get**.
+3. Launch the app and sign in.
 
-A Progressive Web App works like a native app but is installed directly from your browser. Benefits include:
+## Android
 
-- **Instant launch** from your home screen or app drawer
-- **Offline support** for cached content
-- **No app store download** — install directly from the web
-- **Automatic updates** — always get the latest version
+1. Open the Google Play Store and search for **RetroChat**.
+2. Tap **Install**.
+3. Launch the app and sign in.
 
----
+## PWA (desktop and mobile web)
 
-## Install on Android (Chrome)
+The PWA runs in a standalone window with the same features as the browser version, minus native-only integrations like push notifications on some iOS versions.
 
-1. Open [RetroChat](https://retrochat.io) in **Google Chrome**.
-2. Tap the **three-dot menu** (⋮) in the top-right corner.
-3. Select **"Install app"** or **"Add to Home screen"**.
-4. Tap **Install** to confirm.
-5. RetroChat will appear on your home screen.
+### Desktop (Chrome, Edge, Brave, Arc)
+1. Visit RetroChat in your browser.
+2. Click the **Install** icon in the address bar, or open the browser menu and choose **Install RetroChat**.
+3. Launch RetroChat from your dock, taskbar, or applications folder.
 
-*Alternatively, Chrome may show an install banner at the bottom of the screen — just tap **Install**.*
+### Safari on macOS
+1. Visit RetroChat in Safari.
+2. Choose **File → Add to Dock**.
 
----
+### iPhone / iPad (Safari)
+1. Visit RetroChat in Safari.
+2. Tap the **Share** button and choose **Add to Home Screen**.
 
-## Install on iPhone / iPad (Safari)
+### Android (Chrome)
+1. Visit RetroChat in Chrome.
+2. Tap the browser menu and choose **Install app** or **Add to Home Screen**.
 
-1. Open [RetroChat](https://retrochat.io) in **Safari**.
-2. Tap the **Share** button (the square with an arrow pointing up).
-3. Scroll down and tap **"Add to Home Screen"**.
-4. Tap **Add** in the top-right corner.
-5. RetroChat will appear on your home screen.
+## Sign in from the install prompt
 
-*Note: PWA installation on iOS only works through Safari — Chrome and other browsers on iOS do not support PWA installation.*
+RetroChat's `/install` page walks you through installation on any device and links directly to the app stores.
 
----
+## Uninstalling
 
-## Install on Desktop (Chrome / Edge)
-
-1. Open [RetroChat](https://retrochat.io) in **Chrome** or **Microsoft Edge**.
-2. Look for the **install icon** in the address bar (a monitor with a download arrow).
-3. Click it and select **Install**.
-4. RetroChat will open in its own window and appear in your app launcher.
-
-*In Chrome, you can also go to **Menu (⋮) → "Install RetroChat..."**.*
-
----
-
-## Install on Desktop (Firefox)
-
-Firefox does not natively support PWA installation. For the best experience on desktop, we recommend using **Chrome** or **Edge**.
-
----
-
-## Already Installed?
-
-If you've already installed RetroChat, opening the install page will show a confirmation that the app is already installed. Simply tap **Open RetroChat** to launch it.
-
----
-
-## Official Mobile Apps — Coming Soon!
-
-Native mobile apps for **iOS** and **Android** are currently in development. These will offer:
-
-- Full RetroChat experience with native performance
-- Push notifications for messages, tips, and community activity
-- Native camera and microphone integration
-
-*Stay tuned for announcements!*
-
----
-
-## Troubleshooting
-
-**"Install prompt not available"**
-- Make sure you're using a supported browser (Chrome, Edge, or Safari on iOS).
-- Clear your browser cache and reload the page.
-- Ensure you're visiting the site over HTTPS.
-
-**App not updating**
-- Close and reopen the app.
-- If using the PWA, the app will automatically update in the background.
-
----
-
-*Get RetroChat on your home screen — it's just one tap away!*
+- **iOS / Android**: long-press the app icon and choose **Delete App** / **Uninstall**.
+- **PWA**: from the installed app window, open the menu and choose **Uninstall RetroChat**.

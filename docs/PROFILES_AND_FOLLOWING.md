@@ -32,3 +32,10 @@ RetroChat requires an age attestation on first sign-in: you must confirm you are
 ## Deleting your account
 
 **Edit Profile → Danger Zone → Delete Account**. Type the confirmation phrase to permanently remove your profile, posts, and messages.
+
+## Related guides
+
+- [Authentication](AUTHENTICATION.md)
+- [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
+- [Communities & Feed](COMMUNITIES_AND_FEED.md)
+- [Referral System](REFERRAL_SYSTEM.md)

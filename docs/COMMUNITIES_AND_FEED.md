@@ -32,3 +32,15 @@ Some communities operate rooms or events under a **Community Leader** role. Memb
 ## Feed
 
 The **Feed** tab aggregates posts from communities and users you follow, sorted newest first. Use the filter chips at the top to switch between everything, communities only, or people only. Pull to refresh.
+
+## Live and audio in communities
+
+Communities can host [Spaces and Live video](LIVE_STREAMING_AND_SPACES.md). Owners can also run [airdrops](AIRDROPS_AND_TIPPING.md) to reward members.
+
+## Related guides
+
+- [Profiles & Following](PROFILES_AND_FOLLOWING.md)
+- [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md)
+- [Live Radio](LIVE_RADIO.md)
+- [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
+- [Moderation & Safety](MODERATION_AND_SAFETY.md)

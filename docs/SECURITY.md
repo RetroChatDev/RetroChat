@@ -54,11 +54,15 @@ RetroChat provides multiple layers of content moderation:
 
 ## Wallet Security
 
-- RetroChat **never** has access to your wallet's private keys or recovery phrases on our servers.
+- RetroChat **never** has access to your Phantom or in-app wallet private keys or recovery phrases on our servers.
 - Phantom connections use standard Solana wallet adapter protocols.
 - In-app wallets keep key material on-device and require biometric or passphrase approval for signing.
-- All transactions require explicit approval.
-- RetroChat does not custody, hold, or manage user funds.
+- Manual trades and transfers require explicit wallet approval.
+- Your primary wallet funds remain under your control; RetroChat does not custody them.
+
+### Opt-in auto buy/burn executor
+
+If you enable [Token Studio auto buy/burn](TOKEN_STUDIO.md), RetroChat creates a **dedicated executor wallet** for that job only. That executor key is held so the scheduled claim → buy → burn loop can run without you signing each cycle. Enrollment requires an explicit risk disclaimer. Pause anytime. Do not send more SOL to the executor than you are willing to use for gas and buybacks.
 
 ---
 

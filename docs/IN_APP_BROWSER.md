@@ -28,3 +28,9 @@ From the native app shortcut or wallpaper browser tools, open **Browser**. You c
 - Opening links posted in chat rooms without losing your place.
 - Visiting Solana sites that request wallet approval from RetroChat.
 - Reading community-shared articles in a focused tab.
+
+## Related guides
+
+- [Install RetroChat](INSTALL.md)
+- [Wallet Guide](WALLET_GUIDE.md)
+- [Chat Rooms](CHAT_ROOMS.md)

@@ -9,6 +9,7 @@ Start with the [master feature list](FEATURES.md), or jump straight to the guide
 - [Communities & Feed](COMMUNITIES_AND_FEED.md)
 - [Profiles & Following](PROFILES_AND_FOLLOWING.md)
 - [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md)
+- [Live Radio](LIVE_RADIO.md)
 - [Retro TV](RETRO_TV.md)
 - [In-App Browser](IN_APP_BROWSER.md)
 - [Wallet Guide](WALLET_GUIDE.md)

@@ -18,7 +18,6 @@ We believe the internet was better when it was personal, fun, and community-firs
 - **Web3 natives** looking for a social layer with wallet integration, tipping, and token creation
 - **Community builders** who want to create and manage their own spaces
 - **Content lovers** who enjoy curated retro TV channels and live radio stations
-- **Gamers** excited about our upcoming Retro Arcade
 
 ## Key Highlights
 
@@ -29,7 +28,6 @@ We believe the internet was better when it was personal, fun, and community-firs
 - 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
 - 💸 **Tipping & Airdrops** — Send SOL tips and run airdrop campaigns
 - 🔐 **Wallet Integration** — Connect Phantom or use the in-app wallet to unlock Web3 features
-- 🎮 **Retro Arcade** — Coming Soon!
 
 ## Platform Availability
 

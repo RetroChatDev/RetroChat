@@ -1,6 +1,6 @@
 # Live Streaming & Spaces
 
-RetroChat supports three live formats: audio Spaces, video Community Live, and X Spaces playback.
+RetroChat supports live audio and video inside communities.
 
 ## Community Spaces (audio)
 
@@ -20,10 +20,6 @@ Broadcast video from a phone camera or from professional software.
 - Viewers can react, chat, and tip during the stream.
 - Streams can be recorded; recordings appear in the community's video library.
 
-## X Spaces playback
-
-Paste an X Spaces link into a chat message or open one from the Live tab to listen inside RetroChat without leaving the app.
-
 ## Live page
 
-The **Live** tab lists all currently live streams across RetroChat and includes an HLS player for CDN-hosted broadcasts.
+The **Live** tab lists currently live streams across RetroChat.

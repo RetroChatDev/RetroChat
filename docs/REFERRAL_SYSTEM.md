@@ -4,12 +4,13 @@ Invite friends to RetroChat with a personal link.
 
 ## Your referral code
 
-Every account has a personal referral code that includes your screen name. Find it under **Profile → Referrals** or **Settings → Referrals**.
+Every account has a personal referral code. Open it from the main menu item **Invite Friends**.
 
 Share options:
+
 - **Copy link** — copies your full referral URL to the clipboard.
-- **Native share** — opens your device's share sheet.
-- **QR code** — for in-person shares.
+- **Copy code** — copies just the referral code.
+- **Native share** — opens your device's share sheet when available.
 
 ## How referrals are tracked
 
@@ -19,12 +20,15 @@ Share options:
 
 ## Referral dashboard
 
-**Profile → Referrals** shows:
+**Invite Friends** shows:
+
 - Total referred users.
 - Recent referrals (screen name and join date).
 - Status of each referral (pending review, confirmed).
 
 Some referrals are placed in a short review to protect against abuse. Confirmed referrals appear in your dashboard within 24 hours.
+
+Referrals are for community growth tracking. There is no automatic reward payout tied to the referral dashboard.
 
 ## Rules
 

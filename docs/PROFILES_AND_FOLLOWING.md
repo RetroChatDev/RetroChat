@@ -5,10 +5,10 @@ Your profile is how the rest of RetroChat sees you.
 ## Your profile
 
 Open **Edit Profile** to set:
+
 - Screen name (use the **Generate** button for a random suggestion).
 - Avatar and banner.
-- Bio, location, and social links.
-- Date of birth (used for age gating; not shown publicly).
+- Bio and social links.
 - Featured posts pinned to the top of your profile.
 
 Badges appear automatically for verified roles (moderator, community leader, X-verified handle, and more).
@@ -16,8 +16,8 @@ Badges appear automatically for verified roles (moderator, community leader, X-v
 ## Public profile
 
 Anyone can visit your profile to:
+
 - Follow or unfollow you.
-- Start a DM.
 - Tip you in SOL or supported tokens (see [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)).
 - See your featured posts, communities, and public wallet address.
 
@@ -27,7 +27,7 @@ Follow users and communities from their profile pages. Followed content appears 
 
 ## Age verification
 
-RetroChat requires an age gate on first sign-in. Some content categories are hidden or blurred for accounts under the required age.
+RetroChat requires an age attestation on first sign-in: you must confirm you are at least **16**. Creating an in-app wallet requires confirming you are at least **18**. RetroChat does not collect a date of birth for these checks.
 
 ## Deleting your account
 

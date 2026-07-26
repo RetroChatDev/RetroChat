@@ -5,9 +5,10 @@ RetroChat offers three ways to sign in. You can link more than one to the same a
 ## Email and password
 
 1. Open RetroChat and choose **Sign up**.
-2. Enter an email and a password. Confirm your date of birth.
-3. Verify your email if prompted.
-4. Set a screen name and avatar to finish onboarding.
+2. Enter an email and a password.
+3. Confirm that you are at least **16** years old (age attestation — RetroChat does not collect a date of birth).
+4. Verify your email if prompted.
+5. Set a screen name and avatar to finish onboarding.
 
 Use **Forgot password** on the sign-in screen to reset your password by email.
 
@@ -16,7 +17,7 @@ Use **Forgot password** on the sign-in screen to reset your password by email.
 Choose **Continue with Wallet** to sign in with an existing wallet:
 
 - **Phantom** (recommended). RetroChat detects Phantom on desktop, mobile, and inside the Phantom in-app browser.
-- **In-app wallet**. If you don't have Phantom, RetroChat can create a wallet for you during onboarding. Back up the recovery phrase before continuing.
+- **In-app wallet**. If you don't have Phantom, RetroChat can create a wallet for you during onboarding. Creating an in-app wallet requires confirming you are at least **18**. Back up the recovery phrase before continuing.
 
 You'll be asked to sign a short "Sign in to RetroChat" message. This message is free, off-chain, and never moves funds.
 

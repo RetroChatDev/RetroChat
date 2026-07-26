@@ -10,15 +10,15 @@ RetroChat takes platform security seriously. Here's how we protect our users and
 - **Password security** — Passwords are hashed and never stored in plain text.
 - **Password reset** — Secure email-based password recovery flow.
 - **Session management** — Sessions are securely managed with automatic token refresh.
+- **Wallet sign-in** — Phantom or in-app wallet sign a free off-chain message; no funds move during login.
 
 ---
 
 ## Age Verification
 
-- All users must provide their date of birth during sign-up.
-- Users under **16 years old** are not permitted to create accounts.
-- Certain features (Web3 wallet integration, token creation, tipping) require users to be **18 or older**.
-- Age verification events are logged for compliance purposes.
+- Users confirm they are at least **16** during sign-in / onboarding (attestation). RetroChat does **not** collect a date of birth for this check.
+- Creating an **in-app wallet** requires confirming you are at least **18**.
+- Age attestation events may be logged for compliance purposes.
 
 ---
 
@@ -54,9 +54,10 @@ RetroChat provides multiple layers of content moderation:
 
 ## Wallet Security
 
-- RetroChat **never** has access to your wallet's private keys.
-- Wallet connections use standard Solana wallet adapter protocols.
-- All transactions require explicit approval in your wallet app.
+- RetroChat **never** has access to your wallet's private keys or recovery phrases on our servers.
+- Phantom connections use standard Solana wallet adapter protocols.
+- In-app wallets keep key material on-device and require biometric or passphrase approval for signing.
+- All transactions require explicit approval.
 - RetroChat does not custody, hold, or manage user funds.
 
 ---
@@ -73,9 +74,8 @@ RetroChat provides multiple layers of content moderation:
 
 If you discover a security vulnerability, please report it responsibly:
 
-1. Use the **Bug Report** feature within the app.
-2. Provide as much detail as possible about the issue.
-3. Do not publicly disclose the vulnerability before it has been addressed.
+1. Email **support@retrochat.io** with as much detail as possible, or use the in-app **Bug Report** feature for product defects.
+2. Do not publicly disclose the vulnerability before it has been addressed.
 
 We take all security reports seriously and will respond promptly.
 

@@ -1,6 +1,6 @@
 # RetroChat Documentation
 
-Welcome to the RetroChat consumer documentation. These guides cover every feature you can use inside the app, on the web PWA, and on our native iOS and Android builds.
+Welcome to the RetroChat consumer documentation. These guides cover every feature you can use inside the app, on the web PWA, and on our native iOS app.
 
 ## Start here
 
@@ -10,13 +10,13 @@ Welcome to the RetroChat consumer documentation. These guides cover every featur
 
 ## Everyday use
 
-- [Chat Rooms & Direct Messages](CHAT_ROOMS_AND_DMS.md)
+- [Chat Rooms](CHAT_ROOMS.md)
 - [Communities & Feed](COMMUNITIES_AND_FEED.md)
 - [Profiles & Following](PROFILES_AND_FOLLOWING.md)
 - [Notifications](NOTIFICATIONS.md)
 - [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md)
 - [Retro TV](RETRO_TV.md)
-- [Internet Explorer (in-app browser)](INTERNET_EXPLORER_BROWSER.md)
+- [In-App Browser](IN_APP_BROWSER.md)
 - [Learn Center](LEARN_CENTER.md)
 
 ## Wallet & on-chain

@@ -28,14 +28,14 @@ We believe the internet was better when it was personal, fun, and community-firs
 - 📺 **Retro TV** — Watch curated retro content across themed channels
 - 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
 - 💸 **Tipping & Airdrops** — Send SOL tips and run airdrop campaigns
-- 🔐 **Wallet Integration** — Connect Phantom or Solflare to unlock Web3 features
+- 🔐 **Wallet Integration** — Connect Phantom or use the in-app wallet to unlock Web3 features
 - 🎮 **Retro Arcade** — Coming Soon!
 
 ## Platform Availability
 
 - **Web Browser** — Works in any modern browser at [retrochat.io](https://retrochat.io)
 - **PWA (Progressive Web App)** — Install RetroChat on your home screen for an app-like experience
-- **Native Mobile Apps** — Available on the [App Store](https://apps.apple.com/us/app/retro-chat-on-sol/id6766412897) and Google Play (search **RetroChat**)
+- **Native Mobile Apps** — Available on the [App Store](https://apps.apple.com/us/app/retro-chat-on-sol/id6766412897); Android via installable PWA
 
 ## Documentation
 
@@ -51,13 +51,13 @@ Guides and reference live in the [`docs/`](docs/) folder. Start with the [docs i
 
 ### Everyday use
 
-- [Chat rooms & DMs](docs/CHAT_ROOMS_AND_DMS.md)
+- [Chat rooms](docs/CHAT_ROOMS.md)
 - [Communities & feed](docs/COMMUNITIES_AND_FEED.md)
 - [Profiles & following](docs/PROFILES_AND_FOLLOWING.md)
 - [Notifications](docs/NOTIFICATIONS.md)
 - [Live streaming & Spaces](docs/LIVE_STREAMING_AND_SPACES.md)
 - [Retro TV](docs/RETRO_TV.md)
-- [Internet Explorer browser](docs/INTERNET_EXPLORER_BROWSER.md)
+- [In-app Browser](docs/IN_APP_BROWSER.md)
 - [Learn Center](docs/LEARN_CENTER.md)
 
 ### Wallet & on-chain

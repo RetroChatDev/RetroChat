@@ -17,9 +17,9 @@ When you start a video and navigate elsewhere in RetroChat, the **Now Playing** 
 ## Mobile viewing
 
 On phones you can:
+
 - Swipe left/right on the player to jump between channels.
 - Rotate to landscape for full-screen video.
-- Cast from the player controls (if your device supports it).
 
 ## Channel groups
 

@@ -99,7 +99,7 @@ Access/correct/delete via product plus email support; push toggles at OS level; 
 
 Hosting may cross borders—use implies awareness where lawful bases exist.
 
-Third-party integrations (Phantom, Solflare, Capacitor runtimes, Wallet Relay Chromium extension hosts, dApps you connect via Relay, etc.) abide their policies.
+Third-party integrations (Phantom, Capacitor runtimes, Wallet Relay Chromium extension hosts, dApps you connect via Relay, etc.) abide their policies.
 
 _Last reviewed / sync target: July 20, 2026_
 

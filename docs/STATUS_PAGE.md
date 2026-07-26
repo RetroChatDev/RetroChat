@@ -5,15 +5,12 @@ The public status page shows the live health of RetroChat's services.
 ## What you'll see
 
 - Overall system status (operational, degraded, outage).
-- Per-service status: chat, wallet, live streaming, media uploads, Retro TV, notifications.
-- Current incidents with regular updates.
-- History of past incidents.
+- Per-service status for core components (for example chat, wallet, live streaming, media uploads, Retro TV, notifications).
+- Last-updated time and a refresh control.
+
+The page reflects **current** health. It does not currently include incident history or email subscriptions.
 
 ## How to reach it
 
-- From the app: **Settings → Help → Status**.
-- On the web: the "Status" link in the footer.
-
-## Notifications
-
-You can subscribe by email on the status page itself to receive alerts when a new incident is opened or resolved.
+- On the web: open [retrochat.io/status](https://retrochat.io/status), or use the **Status** link in the public footer.
+- From About and related public pages that link to Status.

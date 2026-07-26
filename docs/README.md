@@ -15,6 +15,7 @@ Welcome to the RetroChat consumer documentation. These guides cover every featur
 - [Profiles & Following](PROFILES_AND_FOLLOWING.md)
 - [Notifications](NOTIFICATIONS.md)
 - [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md)
+- [Live Radio](LIVE_RADIO.md)
 - [Retro TV](RETRO_TV.md)
 - [In-App Browser](IN_APP_BROWSER.md)
 - [Learn Center](LEARN_CENTER.md)

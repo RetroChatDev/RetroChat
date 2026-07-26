@@ -53,3 +53,22 @@ Every send, receive, swap, tip, trade, and airdrop is listed under **History**. 
 - Your recovery phrase is stored only on your device. If you lose your device without a backup, RetroChat cannot recover the wallet.
 - Never share your recovery phrase. RetroChat staff will never ask for it.
 - See [Security](SECURITY.md) for more.
+
+## Token Studio note
+
+Manual buys and burns in [Token Studio](TOKEN_STUDIO.md) always require approval from this wallet (or Phantom). Opt-in **auto buy/burn** uses a separate dedicated executor wallet — fund that address for gas only; it is not a replacement for backing up your primary wallet.
+
+## Common questions
+
+**Can RetroChat recover my funds if I lose my phrase?**  
+No. The in-app wallet is self-custody on your device.
+
+**Why did a swap fail?**  
+Common causes: insufficient SOL for fees, slippage too tight, or network congestion. Retry with a slightly higher slippage or more SOL for fees.
+
+## Related guides
+
+- [Authentication](AUTHENTICATION.md)
+- [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
+- [Token Studio](TOKEN_STUDIO.md)
+- [Learn Center](LEARN_CENTER.md)

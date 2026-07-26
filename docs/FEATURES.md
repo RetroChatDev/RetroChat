@@ -44,8 +44,11 @@ See [Retro TV](RETRO_TV.md).
 
 ## Live Radio
 
-- Browse and search thousands of stations worldwide.
+See [Live Radio](LIVE_RADIO.md).
+
+- Browse popular, trending, and genre stations; search by name; save favorites.
 - Keep listening while you chat or navigate other tabs.
+- Optional soundtrack pick when hosting a Community Space.
 
 ## In-app Browser
 
@@ -75,8 +78,9 @@ See [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md).
 
 See [Token Studio](TOKEN_STUDIO.md).
 
-- Launch tokens via the public pump.fun protocol, browse the gallery, view live charts and trades, and use buy/burn tools.
-- Token locking, fee-sharing views, creator analytics, and "My Launches."
+- Launch tokens via the public pump.fun protocol, browse the gallery, view live charts and trades, and use manual buy/burn tools.
+- Opt-in **auto buy/burn**: claim creator fees → buy the same token → burn on a schedule (dedicated executor wallet).
+- Token locking, fee-sharing setup, creator analytics, and "My Launches."
 
 ## Referrals
 

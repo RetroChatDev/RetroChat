@@ -23,3 +23,14 @@ Broadcast video from a phone camera or from professional software.
 ## Live page
 
 The **Live** tab lists currently live streams across RetroChat.
+
+## Soundtrack and Radio
+
+Hosts can pick a [Live Radio](LIVE_RADIO.md) station as Space soundtrack audio where the Space UI offers it. Pause Radio or Retro TV before going live so device audio does not overlap.
+
+## Related guides
+
+- [Live Radio](LIVE_RADIO.md)
+- [Retro TV](RETRO_TV.md)
+- [Communities & Feed](COMMUNITIES_AND_FEED.md)
+- [Notifications](NOTIFICATIONS.md)

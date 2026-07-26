@@ -35,3 +35,9 @@ Referrals are for community growth tracking. There is no automatic reward payout
 - One referrer per new account. The first valid code wins.
 - Self-referrals (signing up with your own code) are not counted.
 - Bulk sign-ups from the same device or network may be flagged and held for review.
+
+## Related guides
+
+- [Getting Started](GETTING_STARTED.md)
+- [Profiles & Following](PROFILES_AND_FOLLOWING.md)
+- [Authentication](AUTHENTICATION.md)

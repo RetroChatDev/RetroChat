@@ -23,3 +23,18 @@ On the native iOS app (and supported Android/PWA setups), RetroChat can send pus
 ## PWA notifications
 
 The installed PWA supports notifications on most desktop browsers and on Android. iOS PWA notification support depends on your iOS version; the native App Store build is the most reliable path for pushes on iPhone.
+
+## Common questions
+
+**I allowed notifications but still get nothing.**  
+Check **Settings → Notifications**, OS notification permissions for RetroChat, and Focus / Do Not Disturb modes. Confirm [Status](STATUS_PAGE.md) is operational for notifications.
+
+**How do I stop one noisy room?**  
+Mute that room or community instead of turning off all pushes.
+
+## Related guides
+
+- [Install RetroChat](INSTALL.md)
+- [Chat Rooms](CHAT_ROOMS.md)
+- [Communities & Feed](COMMUNITIES_AND_FEED.md)
+- [Status Page](STATUS_PAGE.md)

@@ -32,3 +32,10 @@ If you're on a desktop and your wallet lives on your phone, use **Pair device** 
 ## Deleting your account
 
 Open **Edit Profile → Danger Zone → Delete Account**, type the confirmation phrase, and confirm. Your profile, posts, and messages are removed and you're signed out. On-chain assets in an external wallet remain in that wallet.
+
+## Related guides
+
+- [Getting Started](GETTING_STARTED.md)
+- [Install RetroChat](INSTALL.md)
+- [Wallet Guide](WALLET_GUIDE.md)
+- [Security](SECURITY.md)

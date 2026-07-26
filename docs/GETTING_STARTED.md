@@ -33,7 +33,9 @@ The onboarding tour highlights the tabs you'll use most:
 - **Communities** and **Feed** for longer-form posts.
 - **Wallet** for tips, trades, and on-chain assets.
 - **Live** for community streams and Spaces.
+- **Radio** for background internet radio.
 - **Retro TV** for video channels.
+- **Token Studio** / **Learn** when you are ready to explore launches or help articles.
 
 ## 5. Join or create your first room
 
@@ -55,5 +57,7 @@ See the [Wallet Guide](WALLET_GUIDE.md).
 ## Need help?
 
 - [Learn Center](LEARN_CENTER.md) — searchable help articles.
+- [Token Studio](TOKEN_STUDIO.md) — explore, launch, and (optionally) auto buy/burn.
+- [Live Radio](LIVE_RADIO.md) — listen while you chat.
 - [Feature Requests & Bug Reports](FEATURE_REQUESTS_AND_BUGS.md).
 - [Status Page](STATUS_PAGE.md).

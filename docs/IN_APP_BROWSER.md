@@ -1,6 +1,6 @@
 # In-App Browser
 
-On the native iOS and Android apps, RetroChat includes a built-in **Browser** so you can open links and Solana sites without leaving the app. On desktop and mobile web, links open in your system browser instead.
+On the native apps (fullest on iOS), RetroChat includes a built-in **Browser** so you can open links and Solana sites without leaving the app. On desktop and mobile web — and on the Android PWA — links open in your system browser instead.
 
 ## Opening the Browser
 
@@ -22,6 +22,12 @@ From the native app shortcut or wallpaper browser tools, open **Browser**. You c
 - Type a URL or a search query. Non-URL input runs a web search.
 - Refresh and share live next to the address bar.
 - Open the current page in your device's default browser when you want to leave RetroChat.
+
+## Wallet in the Browser
+
+On native builds, some trading sites (for example DexScreener) can request a connection to your RetroChat wallet inside the Browser. Review the origin and approve or reject each request. This is not the same as desktop [Wallet Relay](WALLET_GUIDE.md).
+
+Some Google sign-in pages may hand off to Safari on iOS so the login can complete, then return you to RetroChat.
 
 ## When to use it
 

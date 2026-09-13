@@ -18,6 +18,12 @@ Room creators automatically become the room's first moderator.
 
 For private conversations, create a **private room** and invite only the people you want. That is the supported private-chat path in RetroChat today.
 
+## Holder chat (token-gated rooms)
+
+A community with a linked mint can enable **holder chat**: a private room that only wallets holding that token can enter. RetroChat prompts you to connect or prove holdings when the room is gated.
+
+Community managers can [ping that room](LIVE_STREAMING_AND_SPACES.md) when they go live or start a raid. Holder chat is created from the community menu, Official live settings, or the optional **Community + holder chat** switch on a [Token Studio](TOKEN_STUDIO.md) launch.
+
 ## Inside a room
 
 - Send text, emoticons, GIFs (via GIPHY), images, files, or a live camera capture.
@@ -46,6 +52,7 @@ Yes — use report controls on the message or user. See [Moderation & Safety](MO
 
 ## Related guides
 
+- [Communities & Feed](COMMUNITIES_AND_FEED.md)
 - [Profiles & Following](PROFILES_AND_FOLLOWING.md)
 - [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
 - [Notifications](NOTIFICATIONS.md)

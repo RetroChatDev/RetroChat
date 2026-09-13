@@ -34,6 +34,10 @@ On phones you can:
 
 Curators can bundle related channels into groups (for example "Crypto news" or "Retro gaming") that appear as tabs across the top of the guide.
 
+## Live TV (IPTV)
+
+One guide group is a live TV list sourced from a public **US** IPTV playlist. Channel availability depends on third-party streams. Use channel up/down or swipe on the player to move between channels in that group.
+
 ## Tips
 
 - If a channel fails to load, try another — some streams depend on third-party sources.

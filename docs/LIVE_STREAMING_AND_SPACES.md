@@ -20,6 +20,37 @@ Broadcast video from a phone camera or from professional software.
 - Viewers can react, chat, and tip during the stream.
 - Streams can be recorded; recordings appear in the community's video library.
 
+## Live overlay (OBS browser source)
+
+Community managers can add a RetroChat **Live overlay** as an OBS browser source (1920×1080, transparent). The overlay shows the community name, live status, linked token ticker, a recent-trades ticker, and any active raid countdown.
+
+On the community live page:
+
+1. Open **Live overlay**.
+2. Tap **Copy OBS URL** and paste it as a Browser Source in OBS.
+3. Use **Preview** to check the layout, or **Rotate key** if the URL was shared and you need a new one.
+
+The overlay URL is tokenized. Anyone with the current URL can display the overlay, so rotate the key if it leaks.
+
+## Raid kit
+
+While a community is live, managers can start a timed **raid** that sends viewers to a target:
+
+- Another RetroChat community that is live now.
+- A Solana token mint (opens Scanner).
+- An X handle, tweet, or `x.com` URL.
+- A custom URL.
+
+Set a duration (1–60 minutes; presets include 1, 2, 5, 10, 15, and 30). Viewers see a banner with the countdown and a **Follow raid** button. You can update the remaining time or **End raid** early.
+
+Optionally leave **Ping holder chat** on so the token-gated holder room is notified when the raid starts. Viewers can also get a live-raid notification — see [Notifications](NOTIFICATIONS.md).
+
+Raids are a coordination tool. They do not move funds.
+
+## Holder chat ping
+
+From the community menu or live page, managers with a holder room can **Ping holder chat**: write a short message (up to 500 characters) and optionally notify **@everyone** in that room. Use it for go-live, raids, or launches. See [Communities & Feed](COMMUNITIES_AND_FEED.md).
+
 ## Live page
 
 The **Live** tab lists currently live streams across RetroChat.

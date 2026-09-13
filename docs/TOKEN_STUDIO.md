@@ -4,12 +4,14 @@ Token Studio is RetroChat's front-end for interacting with the public **pump.fun
 
 ## What you can do
 
-- **Explore** trending, new, and graduating tokens, plus **trending metas** and a read-only **z500** index.
+- **Explore** trending, new, and graduating tokens, plus **trending metas**, a **Launch Leaderboard** of RetroChat launches, and a read-only **z500** index.
+- **Watchlist** tokens and get graduation / whale alerts.
 - **View charts** with live price, recent trades, and DexScreener metrics.
 - **Buy or burn** a token from the trade panel (manual, wallet-signed).
 - **Launch** a new token by supplying a name, ticker, image, and description. Launches lock **5%** of pump.fun creator fees to RetroChat; you keep **95%**.
 - **Lock** liquidity or creator tokens for a set period.
 - **Share fees** as a creator when your token qualifies (RetroChat's 5% row stays locked).
+- **Claim** accrued pump.fun creator fees from Wallet or **My Launches**.
 - **Auto buy/burn** (opt-in) — claim creator fees, buy the same token, and burn the purchased supply on a schedule.
 - **Track** your launches under **My Launches** with creator analytics.
 - **List on z500** after launch via ansem.io (optional; not automatic).
@@ -22,6 +24,16 @@ Explore tabs also include:
 
 - **Trending metas** — DexScreener narrative groups (how many tokens, market cap, volume).
 - **z500** — a read-only index from [ansem.io](https://ansem.io). Rank and Gold/Diamond labels are a curation layer on pump.fun mints, **not** an audit or a RetroChat launch path.
+- **Launch Leaderboard** — RetroChat launches you can sort by newest, market cap, or all-time high, with a quick buy control.
+
+## Watchlist and alerts
+
+In Token Studio, paste a mint into **Watchlist** to follow it. Per token you can turn on:
+
+- **Graduation** — notify when the coin leaves the bonding curve.
+- **Whale** — notify when a buy is at or above a SOL threshold you set (default 5 SOL).
+
+Alerts appear in the [notification inbox](NOTIFICATIONS.md) and as pushes when that category is enabled.
 
 ## Token detail page
 
@@ -48,7 +60,9 @@ Burns cannot be undone. Only burn tokens you intend to destroy.
 2. Fill in name, ticker, description, and upload an image.
 3. Optionally add social links and an initial buy amount.
 4. Optionally enable **launch from an executor wallet** if you plan to use auto buy/burn (see below).
-5. Review the on-chain cost estimate and confirm the transaction.
+5. Optional launch flags (pump.fun createV2): **Mayhem mode** and **Cashback**. Eligibility and behavior are defined by pump.fun, not RetroChat.
+6. Optionally turn on **Community + holder chat** to create a RetroChat community, pin the contract, and open a [token-gated holder room](COMMUNITIES_AND_FEED.md). You can attach official live or enable holder chat later from any community.
+7. Review the on-chain cost estimate and confirm the transaction.
 
 The launch runs against the public pump.fun program. RetroChat is a client of that public protocol and takes no custody of your primary wallet funds during a normal launch.
 
@@ -131,6 +145,10 @@ From your token page, choose **Lock** to lock creator tokens or liquidity for a 
 
 Under **My Launches**, view analytics for tokens you created: buys, sells, unique wallets, and creator earnings. Open **Manage** for fee sharing, locking, and auto buy/burn.
 
+## Claim creator fees
+
+If you created tokens on pump.fun, **Claim creator fees** on the Wallet home and on **My Launches** scans those mints and lets you collect claimable fees in one signed pass. Claims only run for coins created from the connected wallet. This is a manual claim — it is separate from opt-in [auto buy/burn](#auto-buyburn-opt-in).
+
 ## Common questions
 
 **Why can't I activate auto buy/burn?**  
@@ -165,6 +183,7 @@ Token Studio features may be unavailable in some regions due to local law. Retro
 ## Related guides
 
 - [Wallet Guide](WALLET_GUIDE.md)
+- [Communities & Feed](COMMUNITIES_AND_FEED.md)
 - [Learn Center](LEARN_CENTER.md) — in-app articles on wallets, DeFi, Token Studio, **The 5% creator fee lock**, and **ansem.io and the z500 index**
 - [Security](SECURITY.md)
 - [Legal](LEGAL.md)

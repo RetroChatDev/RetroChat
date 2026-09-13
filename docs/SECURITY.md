@@ -66,9 +66,9 @@ RetroChat provides multiple layers of content moderation:
 
 Optional [Wallet Relay](WALLET_GUIDE.md) pairs a Chromium extension with your RetroChat signer. Pairing does not authorize a transaction. You review each dApp origin and action. Encrypted request envelopes may transit RetroChat infrastructure; private keys never do. Install only the official [Chrome Web Store listing](https://chromewebstore.google.com/detail/lcikpcjmmijbpmpadpdjfncpijldpacc) and revoke pairings from **Browser Wallet Access** if a device is lost.
 
-### Opt-in auto buy/burn executor
+### Opt-in auto buy/burn and buy/airdrop executors
 
-If you enable [Token Studio auto buy/burn](TOKEN_STUDIO.md), RetroChat creates a **dedicated executor wallet** for that job only. That executor key is held so the scheduled claim → buy → burn loop can run without you signing each cycle. Enrollment requires an explicit risk disclaimer. Pause anytime. Do not send more SOL to the executor than you are willing to use for gas and buybacks.
+If you enable [Token Studio auto buy/burn or buy/airdrop](TOKEN_STUDIO.md) at launch, RetroChat creates a **dedicated executor wallet** for that job only. That executor key is held so the scheduled claim → buy → burn or claim → buy → airdrop loop can run without you signing each cycle. Enrollment requires an explicit risk disclaimer. Pause anytime. Do not send more SOL to the executor than you are willing to use for gas and buys. The two automations cannot share the same mint.
 
 ---
 

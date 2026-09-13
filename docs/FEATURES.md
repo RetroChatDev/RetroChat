@@ -88,6 +88,7 @@ See [Token Studio](TOKEN_STUDIO.md).
 - Optional **Community + holder chat** at launch; claim creator fees from Wallet or My Launches.
 - Token Studio launches lock **5%** of pump.fun creator fees to RetroChat; you keep **95%**.
 - Opt-in **auto buy/burn**: claim creator fees → buy the same token → burn on a schedule (dedicated executor wallet).
+- Opt-in **auto buy/airdrop** (at launch, not combined with buy/burn): claim creator fees → buy a target mint → airdrop pro-rata to holders of your launch.
 - Token locking, fee-sharing setup, creator analytics, and "My Launches."
 - After launch: **Register on z500** / **View on z500** deep-links (listing is a separate step on ansem.io).
 

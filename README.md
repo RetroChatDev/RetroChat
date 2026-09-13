@@ -23,7 +23,7 @@ We believe the internet was better when it was personal, fun, and community-firs
 
 - 🗨️ **Live Chat Rooms** — Create public or private rooms, invite friends, customize wallpapers
 - 🌐 **Communities & Spaces** — Build communities with posts, voice rooms, live broadcasts, raids, and holder chat
-- 🪙 **Token Launchpad** — Launch your own Solana token on pump.fun from Token Studio (5% creator-fee lock; optional z500 listing)
+- 🪙 **Token Launchpad** — Launch your own Solana token on pump.fun from Token Studio (5% creator-fee lock; optional buy/burn, buy/airdrop, or z500 listing)
 - 📺 **Retro TV** — Watch curated retro content across themed channels
 - 📻 **Live Radio** — Tune in to thousands of radio stations worldwide
 - 💸 **Tipping & Airdrops** — Send SOL tips, run community airdrops, and track $ANSEM / z500 claims

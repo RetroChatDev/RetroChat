@@ -72,7 +72,7 @@ Private keys stay on your device. Encrypted payloads may be temporarily relayed 
 
 ## Token Studio note
 
-Manual buys and burns in [Token Studio](TOKEN_STUDIO.md) always require approval from this wallet (or Phantom). Opt-in **auto buy/burn** uses a separate dedicated executor wallet — fund that address for gas only; it is not a replacement for backing up your primary wallet.
+Manual buys and burns in [Token Studio](TOKEN_STUDIO.md) always require approval from this wallet (or Phantom). Opt-in **auto buy/burn** and **auto buy/airdrop** each use a separate dedicated executor wallet — fund that address for gas only; it is not a replacement for backing up your primary wallet.
 
 ## Common questions
 

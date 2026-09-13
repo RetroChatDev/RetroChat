@@ -37,7 +37,9 @@ Community owners can run airdrops to reward members.
 5. Review the estimated cost. Large lists are sent in multi-recipient batches so you approve fewer transactions.
 6. Approve the transaction.
 
-This community flow is separate from any personal send you run from the Wallet tab. Recipients receive an in-app notification when their tokens land.
+This community flow is separate from any personal send you run from the Wallet tab, and separate from Token Studio **auto buy/airdrop** (creator-fee automation that buys a target token and distributes it to holders of your launch). Recipients of a community airdrop receive an in-app notification when their tokens land.
+
+See [Token Studio](TOKEN_STUDIO.md#auto-buyairdrop-opt-in) for the launch-time buy/airdrop worker.
 
 ### Best practices
 

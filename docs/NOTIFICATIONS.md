@@ -9,7 +9,8 @@ Tap the bell icon to open the notification inbox. Notifications are grouped by t
 - Mentions and replies in rooms and communities.
 - Likes and pins on your posts.
 - Tips received.
-- Community events (new post from a community you follow, going live, etc.).
+- Community events (new post from a community you follow, going live, Spaces, **live raids**, and **holder chat pings**).
+- Token Studio **watchlist** alerts (graduation and large buys / whale prints).
 - z500 / $ANSEM holder airdrop reminders when ansem.io has unclaimed distributions.
 - System messages from RetroChat.
 
@@ -18,7 +19,7 @@ Tap the bell icon to open the notification inbox. Notifications are grouped by t
 On the native iOS app (and supported Android/PWA setups), RetroChat can send push notifications.
 
 - On first launch you'll be asked to allow notifications.
-- Manage per-category preferences under **Settings → Notifications**.
+- Manage per-category preferences under **Settings → Notifications**. Groups include Chat, Social (tips, airdrops, token alerts), Communities (live, Spaces, raids, chat pings), Roles & Mod, and System.
 - Turn off all pushes with the master toggle.
 
 ## PWA notifications
@@ -39,4 +40,6 @@ Mute that room or community instead of turning off all pushes.
 - [Chat Rooms](CHAT_ROOMS.md)
 - [Communities & Feed](COMMUNITIES_AND_FEED.md)
 - [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md)
+- [Token Studio](TOKEN_STUDIO.md)
+- [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md)
 - [Status Page](STATUS_PAGE.md)

@@ -45,6 +45,10 @@ Tap the bell icon on any token to set a price alert. You'll receive a notificati
 
 Solana charges a small "rent" deposit for each token account. The **Reclaim Rent** tool scans your wallet for empty token accounts and lets you close them to recover the deposit as SOL.
 
+## Claim creator fees
+
+If you launched tokens, the Wallet home can show **Claim creator fees** next to [Token Studio → My Launches](TOKEN_STUDIO.md). RetroChat scans your creator mints and lets you collect claimable pump.fun fees in one signed pass. Only coins created from the connected wallet are included.
+
 ## Transaction history
 
 Every send, receive, swap, tip, trade, and airdrop is listed under **History**. Tap any entry to view it on a public block explorer.

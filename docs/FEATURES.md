@@ -18,6 +18,7 @@ See [Communities & Feed](COMMUNITIES_AND_FEED.md).
 - Create communities with banners, descriptions, rules, and social links.
 - Community posts with likes, replies, pinning, reporting, and a featured carousel.
 - Membership, roles, and a Community Leader workflow with request and approval.
+- Official live (pump.fun and/or RetroChat) and optional **holder chat** for a linked mint.
 - Following feed that aggregates people and communities you follow.
 
 ## Profiles & Following
@@ -33,7 +34,8 @@ See [Profiles & Following](PROFILES_AND_FOLLOWING.md).
 See [Live Streaming & Spaces](LIVE_STREAMING_AND_SPACES.md).
 
 - Community Spaces: audio-only rooms with raise-hand, moderation, and participant list.
-- Community Live: video broadcasting with OBS/RTMP support, camera preview, and recordings.
+- Community Live: video broadcasting with OBS/RTMP support, camera preview, recordings, and an OBS **Live overlay**.
+- **Raid kit**: send a live audience to another live community, a mint, X, or a URL, with an optional holder-chat ping.
 - Live page: browse currently live streams.
 
 ## Retro TV
@@ -54,7 +56,7 @@ See [Live Radio](LIVE_RADIO.md).
 
 See [In-App Browser](IN_APP_BROWSER.md).
 
-- Tabbed browser with bookmarks on the **native iOS and Android apps**.
+- Tabbed browser with bookmarks on the **native apps** (fullest on iOS). Some sites can request the RetroChat wallet inside the Browser.
 - On web and PWA, links open in your system browser.
 
 ## Wallet & payments
@@ -82,7 +84,8 @@ See [Tipping & Airdrops](AIRDROPS_AND_TIPPING.md).
 See [Token Studio](TOKEN_STUDIO.md).
 
 - Launch tokens via the public pump.fun protocol, browse the gallery, view live charts and trades, and use manual buy/burn tools.
-- Explore includes trending metas and a read-only **z500** index (ansem.io listing layer).
+- Explore includes trending metas, a **Launch Leaderboard**, a **watchlist** with graduation/whale alerts, and a read-only **z500** index (ansem.io listing layer).
+- Optional **Community + holder chat** at launch; claim creator fees from Wallet or My Launches.
 - Token Studio launches lock **5%** of pump.fun creator fees to RetroChat; you keep **95%**.
 - Opt-in **auto buy/burn**: claim creator fees → buy the same token → burn on a schedule (dedicated executor wallet).
 - Token locking, fee-sharing setup, creator analytics, and "My Launches."
@@ -98,7 +101,7 @@ See [Referral System](REFERRAL_SYSTEM.md).
 
 See [Notifications](NOTIFICATIONS.md).
 
-- In-app inbox for mentions, replies, tips, community activity, and z500 airdrop reminders.
+- In-app inbox for mentions, replies, tips, community activity, live raids, holder-chat pings, token watchlist alerts, and z500 airdrop reminders.
 - Push notification registration and per-category preferences on supported platforms.
 
 ## Moderation & Safety
@@ -116,7 +119,7 @@ See [Authentication](AUTHENTICATION.md).
 
 - Email/password, **Apple**, **Google**, wallet sign-in (Phantom or in-app wallet), and X (Twitter) OAuth.
 - Password reset and account deletion.
-- Cross-device wallet approval pairing.
+- Optional **Wallet Relay** for desktop dApp signing.
 
 ## Install & platforms
 

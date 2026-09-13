@@ -33,7 +33,7 @@ The onboarding tour highlights the tabs you'll use most:
 - **Rooms** for real-time chat.
 - **Communities** and **Feed** for longer-form posts.
 - **Wallet** for tips, trades, and on-chain assets.
-- **Live** for community streams and Spaces.
+- **Live** for community streams, Spaces, and (for hosts) raids and OBS overlay.
 - **Radio** for background internet radio.
 - **Retro TV** for video channels.
 - **Token Studio** / **Learn** when you are ready to explore launches or help articles.

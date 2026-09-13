@@ -18,6 +18,10 @@ On the sign-in and sign-up screens, choose **Continue with Apple** or **Continue
 
 After you approve access, RetroChat creates or links your account. Age attestation still applies on first use.
 
+## Native app sign-in (iOS)
+
+On the App Store build, sign-in uses a native sheet instead of the web form. Apple, Google, and X still complete in the system browser and return you to RetroChat. Referral codes you arrived with are kept through that handoff. The app refreshes your session when you come back from the browser.
+
 ## Wallet sign-in (Solana)
 
 Choose **Continue with Wallet** to sign in with an existing wallet:
@@ -31,9 +35,9 @@ You'll be asked to sign a short "Sign in to RetroChat" message. This message is 
 
 Choose **Continue with X** to authorize RetroChat through X's OAuth screen. Your handle, display name, and avatar are imported. You can also link X later from your profile settings to unlock the verified-handle badge.
 
-## Cross-device wallet approval
+## Browser Wallet Access
 
-If you're on a desktop and your wallet lives on your phone, use **Pair device** on the wallet screen. Scan the code with the RetroChat mobile app to approve wallet requests from the phone. The pairing expires when you sign out.
+Desktop dApp signing is handled by optional **Wallet Relay** (Chrome extension → approve on your RetroChat signer). Pairing does not approve a transaction. Manage or revoke browsers from the account menu → **Browser Wallet Access**. See the [Wallet Guide](WALLET_GUIDE.md).
 
 ## Deleting your account
 

@@ -32,11 +32,12 @@ Community owners can run airdrops to reward members.
 
 1. Open a community you own.
 2. Choose **Manage airdrops** (community actions menu), which opens `/communities/<slug>/airdrops`.
-3. Choose a token, total amount, and recipient list (paste addresses, upload CSV, or select community members).
-4. Review the estimated cost.
-5. Approve the transaction.
+3. Set the community treasury wallet if you have not already. You can enable **in-app / Face ID signing** for that treasury on this device, or connect **Phantom** as that wallet.
+4. Choose a token, total amount, and recipient list (paste addresses, upload CSV, or select community members).
+5. Review the estimated cost. Large lists are sent in multi-recipient batches so you approve fewer transactions.
+6. Approve the transaction.
 
-Recipients receive an in-app notification when their tokens land.
+This community flow is separate from any personal send you run from the Wallet tab. Recipients receive an in-app notification when their tokens land.
 
 ### Best practices
 

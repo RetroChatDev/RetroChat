@@ -58,7 +58,7 @@ See the [Wallet Guide](WALLET_GUIDE.md).
 ## Need help?
 
 - [Learn Center](LEARN_CENTER.md) — searchable help articles (including the 5% creator-fee lock and z500 explainers).
-- [Token Studio](TOKEN_STUDIO.md) — explore, launch, list on z500, and (optionally) auto buy/burn.
+- [Token Studio](TOKEN_STUDIO.md) — explore, launch, list on z500, and (optionally) auto buy/burn or buy/airdrop.
 - [Live Radio](LIVE_RADIO.md) — listen while you chat.
 - [Feature Requests & Bug Reports](FEATURE_REQUESTS_AND_BUGS.md).
 - [Status Page](STATUS_PAGE.md).
